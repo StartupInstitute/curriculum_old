@@ -1,5 +1,6 @@
 Instructions
 ===
-Awesome, did I just solve the saving problem?
+
+One commit behind?
 
 Here are instructions for the portal...
