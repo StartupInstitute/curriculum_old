@@ -1,6 +1,6 @@
 **Core Instructional Practices**
 
-![image alt text](image_0.png)
+![image alt text](trollface.png)
 
 **At Startup Institute we believe that students should be doing something**
 
