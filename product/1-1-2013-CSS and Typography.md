@@ -1,4 +1,4 @@
-CSS and Typography
+Hey E! Capstone
 ===
 
 **Core Instructional Practices**
