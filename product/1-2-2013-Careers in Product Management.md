@@ -1,4 +1,4 @@
-Developing a Career in Product Management
+Developing a Career in Product Management!
 ===
 
 **Core Instructional Practices**
