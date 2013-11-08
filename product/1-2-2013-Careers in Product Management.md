@@ -1,7 +1,7 @@
 Developing a Career in Product Management!
 ===
 
-Hey Mana
+Hey Manan
 
 **Core Instructional Practices**
 
