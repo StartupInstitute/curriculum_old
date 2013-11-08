@@ -1,6 +1,8 @@
 Developing a Career in Product Management!
 ===
 
+Hey Mana
+
 **Core Instructional Practices**
 
 ![image alt text](image_0.png)
