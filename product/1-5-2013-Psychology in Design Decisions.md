@@ -1,6 +1,6 @@
 **Core Instructional Practices**
 
-![Text to link](https://www.filepicker.io/api/file/Kq3Sru9KQCeZDuoVgiy5)
+Hey Brent
 
 **At Startup Institute we believe that students should be doing something**
 
