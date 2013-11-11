@@ -4,7 +4,7 @@
 
 **other than listening at least 80% of the time.**
 
-**Real World Learning** – Startup Institute instructors bring with them real world experience from their professional roles. Examples include a github repos, Q2 marketing & sales data, or recent product designs.  These situations give students the context to think about and explore what they are learning.  By bringing their work with them, instructors spark a dialogue around relevant best practices & potential hurdles students will face.
+**Real World Learning** – Startup Institute instructors bring with them real world experience from their professional roles. Examples include a github repos, Q2 marketing & sales data, or recent product designs.  These situations give students the context to think about and explore what they are learning.  By bringing their work with them, instructors spark a dialogue around relevant best practices & potential hurdles.
 
 **Artifacts of Learning** – Having students create original work is critical to student learning at Startup Institute.  Whether it is writing code, designing a new product, or writing a marketing strategy proposal based on recent sales data, activities provide a meaningful way for students to practice the skills they have learned from the instructor.  Student work is also a great way for instructors to assess student understanding and give meaningful feedback.
 
