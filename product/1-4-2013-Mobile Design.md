@@ -1,4 +1,4 @@
-**Core Instructional Practices**
+**Core Instructional Practices Are Awesome**
 
 **At Startup Institute we believe that students should be doing something**
 
