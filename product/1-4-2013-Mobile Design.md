@@ -5,6 +5,8 @@ asdf;lkjadsfasdf
 ![Create](https://www.filepicker.io/api/file/mRZvRlqjSp1ifUd49BC7)
 
 
+
+
 **other than listening at least 80% of the time.**
 
 **Real World Learning** – Startup Institute instructors bring with them real world experience from their professional roles. Examples include a github repos, Q2 marketing & sales data, or recent product designs.  These situations give students the context to think about and explore what they are learning.  By bringing their work with them, instructors spark a dialogue around relevant best practices & potential hurdles.
