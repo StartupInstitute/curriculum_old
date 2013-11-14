@@ -1,6 +1,9 @@
 **Core Instructional Practices Are Awesome**
 
 **At Startup Institute we believe that students should be doing something**
+asdf;lkjadsfasdf
+![Create](https://www.filepicker.io/api/file/mRZvRlqjSp1ifUd49BC7)
+
 
 **other than listening at least 80% of the time.**
 
