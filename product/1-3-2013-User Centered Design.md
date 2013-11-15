@@ -1,5 +1,5 @@
 **Core Instructional Practices**
-
+![Text to link](https://www.filepicker.io/api/file/UOFJHyP7R0P5CqERT9Ef)
 **At Startup Institute we believe that students should be doing something**
 
 **other than listening at least 80% of the time.**
