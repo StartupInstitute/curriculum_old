@@ -76,3 +76,16 @@ What extension activities or next steps can I leave students with? If they conti
 
 Consider going back through this document and attaching timing to each item. Make sure to build time in at the end of the session for informal check-ins with students.
 
+![Collaborate](https://www.filepicker.io/api/file/IzSDVZ1eTOH0MfM7rmSL)
+![Create](https://www.filepicker.io/api/file/mRZvRlqjSp1ifUd49BC7)
+![Deliver](https://www.filepicker.io/api/file/HNBwGj2QomZjsbwaqLL5)
+![Discover](https://www.filepicker.io/api/file/9MDxLWEwQFCJ4pGRIhyk)
+![Download](https://www.filepicker.io/api/file/kZBWXOrpRd2yQzuCPbHg)
+![Feedback](https://www.filepicker.io/api/file/IDwhuRbOQoWghmBWSnKL)
+![Install](https://www.filepicker.io/api/file/8rcoVleDSqydisHj6PGf)
+![Read](https://www.filepicker.io/api/file/CMxYEnttQByRSVVEsF2b)
+![Reflect](https://www.filepicker.io/api/file/2dbLFevhS9O3T1b3DrPa)
+![Spiral](https://www.filepicker.io/api/file/Dce7kUwKTOiSpdxi4i6U)
+![Stretch](https://www.filepicker.io/api/file/d0it1vOzRYCtEKyiPq8i)
+![Watch](https://www.filepicker.io/api/file/8LAKWiETgytd6BfW4KT9)
+
