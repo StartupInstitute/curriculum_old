@@ -1,7 +1,7 @@
-Instruction
+Instructions
 ==
 
-Whatsup Ian
+Whatsup Dylan
 One commit behind??
 
 Here are instructions for the portal...
